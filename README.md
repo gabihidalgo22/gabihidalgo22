@@ -1,48 +1,47 @@
-## Hi there, I'm Gabriela Hidalgo 👋
+# ¡Hola! Soy Gabriela Hidalgo 👋
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Ingeniera de QA Multilingüe | Especialista en Seguridad Alimentaria y Regulatoria
 
-### Multilingual QA Engineer | Food Safety & Regulatory Specialist
-
-I am a quality-driven professional with a background in **Microbiology and Regulatory Compliance (USDA/FDA)**, currently transitioning into **Software QA Engineering** through TripleTen. I bridge the gap between physical safety standards and digital product excellence.
-
----
-
-## 🛠️ My QA Toolkit
-* **Manual Testing:** Functional, Regression, Smoke, and Negative Testing.
-* **API Testing:** Postman (JSON validation, Status Codes, Collection Runner).
-* **Defect Management:** Jira (Bug Reporting, Impact Analysis).
-* **Automation:** Fundamentals of BDD, JavaScript (Learning in progress).
-* **Languages:** English 🇺🇸 | Spanish 🇪🇸 | Portuguese 🇧🇷
+Soy una profesional enfocada en la calidad con una sólida trayectoria en **Microbiología y Cumplimiento Regulatorio (USDA/FDA)**. Actualmente, estoy transicionando hacia la **Ingeniería de QA de Software** a través de TripleTen, uniendo los estándares de seguridad física con la excelencia en productos digitales.
 
 ---
 
-## 🚀 Featured Projects (TripleTen Sprints)
-
-### 📂 [Web Testing: Comprehensive Suite](Link-to-your-repo-here)
-* **Description:** Developed and executed a full testing lifecycle for a web application.
-* **Key Results:** Authored **60+ test cases** and documented **35+ defects** in Jira with clear reproduction steps.
-* **Tools:** Google Sheets, Jira.
-
-### 📂 [API Validation: Postman Collections](Link-to-your-repo-here)
-* **Description:** Verified back-end integrity across **20+ endpoints**.
-* **Key Results:** Ensured correct JSON structures and status code handling for both positive and negative scenarios.
-* **Tools:** Postman.
+## 🛠️ Mi Toolkit de QA
+* **Pruebas Manuales:** Pruebas Funcionales, de Regresión, Smoke Testing y Escenarios Negativos.
+* **Pruebas de API:** Postman (validación de JSON, códigos de estado, Collection Runner).
+* **Gestión de Defectos:** Jira (reporte de bugs, análisis de impacto).
+* **Automatización:** Fundamentos de BDD, JavaScript (aprendizaje en curso).
+* **Idiomas:** Inglés 🇺🇸 | Español 🇪🇸 | Portugués 🇧🇷
 
 ---
 
-## 📊 My Career Evolution
-* 🔬 **Microbiology & Food Safety:** Years of experience in high-stakes auditing and international compliance.
-* 💻 **QA Engineering:** Applying a "zero-defect" mindset to modern software development.
-* 🎨 **Design & Compliance:** Training in Adobe Illustrator for technical labeling and packaging.
+## 🚀 Proyectos Destacados (Sprints de TripleTen)
+
+### 📂 [Pruebas Web: Suite Integral](Link-a-tu-repositorio)
+* **Descripción:** Desarrollo y ejecución del ciclo de vida completo de pruebas para una aplicación web.
+* **Resultados Clave:** Elaboración de **más de 60 casos de prueba** y documentación de **más de 35 defectos** en Jira con pasos de reproducción detallados.
+* **Herramientas:** Google Sheets, Jira.
+
+### 📂 [Validación de API: Colecciones de Postman](Link-a-tu-repositorio)
+* **Descripción:** Verificación de la integridad del back-end en **más de 20 endpoints**.
+* **Resultados Clave:** Validación de estructuras JSON y manejo de códigos de estado para escenarios positivos y negativos.
+* **Herramientas:** Postman.
 
 ---
 
-## 📫 Let's Connect!
-* **LinkedIn:** https://www.linkedin.com/in/maria-gabriela-h-31418154 
+## 📊 Mi Evolución Profesional
+* 🔬 **Microbiología y Seguridad Alimentaria:** Años de experiencia en auditorías de alto nivel y cumplimiento internacional.
+* 💻 **Ingeniería de QA:** Aplicando una mentalidad de "cero defectos" al desarrollo de software moderno.
+* 🎨 **Diseño y Cumplimiento:** Capacitación en Adobe Illustrator para etiquetado técnico y cumplimiento de empaques.
+
+---
+
+## 📫 ¡Conectemos!
+* **LinkedIn:** [Maria Gabriela Hidalgo](https://www.linkedin.com/in/maria-gabriela-h-31418154)
 * **Email:** gabihidalgo22@gmail.com
 
-
 ---
-*“Quality is not an act, it is a habit.”*
+*"La calidad no es un acto, es un hábito."*
+

@@ -19,16 +19,18 @@ Soy una profesional enfocada en la calidad con una sólida trayectoria en **Micr
 
 ## 🚀 Proyectos Destacados (Sprints de TripleTen)
 
-### 📂 [Pruebas Web: Suite Integral](Link-a-tu-repositorio)
-* **Descripción:** Desarrollo y ejecución del ciclo de vida completo de pruebas para una aplicación web.
-* **Resultados Clave:** Elaboración de **más de 60 casos de prueba** y documentación de **más de 35 defectos** en Jira con pasos de reproducción detallados.
-* **Herramientas:** Google Sheets, Jira.
+📂 [Pruebas Web: Urban Routes]## 📂 [Pruebas Técnicas: Urban Routes (Análisis y Diseño)](https://docs.google.com/document/d/1uGAahkcxItaODfzN_mjrCKzIgZKp-Vle/edit?usp=sharing)
+* [cite_start]**Descripción:** Aplicación de técnicas avanzadas de diseño de pruebas para la plataforma Urban Routes, estructurando la estrategia de validación mediante artefactos visuales y lógicos para asegurar la cobertura completa del sistema.
+* [cite_start]**Resultados Clave:** * Diseño de un **Mapa Mental** detallado para la descomposición funcional del software y un **Diagrama de Flujo** para la lógica de navegación del usuario.
+    * [cite_start]Creación de **Clases de Equivalencia** para optimizar el número de pruebas sin sacrificar la calidad, junto con una suite estructurada de **Casos de Prueba**.
+    * [cite_start]Documentación técnica organizada que facilita la trazabilidad entre los requisitos de negocio y las pruebas de software.
+* [cite_start]**Herramientas:** Google Sheets, Lucidchart (o herramienta de diagramas), Análisis de Partición de Equivalencia, Google Docs.
 
-### 📂 [Validación de API: Colecciones de Postman](Link-a-tu-repositorio)
-* **Descripción:** Verificación de la integridad del back-end en **más de 20 endpoints**.
-* **Resultados Clave:** Validación de estructuras JSON y manejo de códigos de estado para escenarios positivos y negativos.
-* **Herramientas:** Postman.
-
+### 📂 [Validación de API: Colecciones de Postman]## 📂 [Pruebas Web: Urban Routes](https://docs.google.com/document/d/17BK9QjfoP1l9nGKHQkHwU5ge9Br5FPCb/edit?usp=sharing)
+* [cite_start]**Descripción:** Ejecución de pruebas integrales de diseño y funcionalidad para la aplicación de transporte Urban Routes, validando el flujo crítico de reserva y pago en múltiples navegadores y resoluciones.
+* [cite_start]**Resultados Clave:** * Diseño y ejecución de listas de comprobación y casos de prueba para funciones clave como "Método de pago", "Agregar tarjeta" y el botón de "Reservar".
+    * [cite_start]Identificación y reporte en Jira de defectos críticos en el comportamiento del mapa y flujos de pago, asegurando la estabilidad antes del lanzamiento.
+* [cite_start]**Herramientas:** Jira, Google Sheets, Pruebas de UI/UX, Google Docs.
 ---
 
 ## 📊 Mi Evolución Profesional
